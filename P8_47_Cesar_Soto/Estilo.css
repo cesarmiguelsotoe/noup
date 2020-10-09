@@ -1,0 +1,57 @@
+body{
+width: 980px;
+margin: 0px auto;
+background-color: rgb(242, 232, 175);
+}
+header{
+padding: 0 0 90px auto;
+
+}
+#logo-header{
+    float: left;
+  
+text-decoration: none;
+
+}
+h2{
+   
+    
+    color: rgb(177, 0, 162);
+}
+p{
+    color: rgb(73, 0, 146);  
+}
+
+#site-name{
+    text-align: left
+    display: block;
+    
+
+color: rgb(194, 36, 36);
+
+
+}
+aside{
+    float: right;
+    padding-left: 10px;
+}
+nav{
+background-color: rgb(233, 115, 115);
+padding-left: 4px;
+height: 24px;
+}
+nav ul li{
+display: inline;
+padding: 0px  20x 5px 10px;
+border-right: 1px solid #fff;
+}
+nav ul li a{
+color: #fff;
+text-decoration none;
+
+}
+
+footer {
+ position: absolute;
+ bottom: 0;
+}
